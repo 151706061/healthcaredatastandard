@@ -1,6 +1,7 @@
 healthcaredatastandard
 ======================
 
+这个项目从开始我就应该知道 医疗信息化是个烂透了的行业，但我还是坚持到2024年
 
 looking for contributor 
 
